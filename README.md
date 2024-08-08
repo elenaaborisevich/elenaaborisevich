@@ -1,15 +1,15 @@
-# Елена Борисевич
+# Elena Borisevich
 
 [![Telegram](https://img.shields.io/badge/Telegram-1a3136?style=social&logo=Telegram)](https://t.me/elena_borisevich) 
 [![Gmail](https://img.shields.io/badge/Gmail-1a3136?style=social&logo=Gmail)](mailto:elena_borisevich@smartup.ru) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a3136?style=social&logo=LinkedIn)](https://linkedin.com/in/elena-borisevich) 
 
-## Тестировщик (ручное + автоматизация)
+## QA engineer (Manual + Automation)
 
-[:point_right: Резюме](https://docs.google.com/document/d/1TRswzT_BINIDqzCVVOEv5BvEyljdcyHU/edit?usp=drive_link&ouid=101271340510760846502&rtpof=true&sd=true)
+Here is my [:point_right: CV](https://docs.google.com/document/d/1TRswzT_BINIDqzCVVOEv5BvEyljdcyHU/edit?usp=drive_link&ouid=101271340510760846502&rtpof=true&sd=true)
 
 
-## Ручное тестирование (Web + Mobile)
+## Manual testing (Web + Mobile)
 
 ![DevTools](https://img.shields.io/badge/DevTools-122529?style=for-the-badge&logo=googlechrome)
 ![Postman](https://img.shields.io/badge/Postman-122529?style=for-the-badge&logo=Postman&logoColor=f76935)
@@ -26,15 +26,15 @@
 ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-122529?style=for-the-badge&logo=AndroidStudio)
 ![Genymotion](https://img.shields.io/badge/Genymotion-122529?style=for-the-badge&logo=Genymotion)
 
-### Тестовые артефакты
+### Testing artefacts
 
-* [Чек-листы](https://docs.google.com/spreadsheets/d/1AYOJKaYNLzTTBRqsc-M7JI6okSRImAw_3M6uF517dKY/edit?gid=245225388#gid=245225388)
-* [Тест-кейсы](https://docs.google.com/spreadsheets/d/1TaoCsQM-Lo-BLpCxg5_abQSzYc2jO7pF6FAzkaJgqDc/edit#gid=1064810504)
-* [Баг-репорты](https://gitlab.com/elena.a.borisevich/elena.a.borisevich/-/issues)
-* [Postman коллекция](https://gitlab.com)
-* [SQL запросы](https://gitlab.com)
+* [Checklists](https://docs.google.com/spreadsheets/d/1AYOJKaYNLzTTBRqsc-M7JI6okSRImAw_3M6uF517dKY/edit?gid=245225388#gid=245225388)
+* [Test cases](https://docs.google.com/spreadsheets/d/1TaoCsQM-Lo-BLpCxg5_abQSzYc2jO7pF6FAzkaJgqDc/edit#gid=1064810504)
+* [Bug reports](https://gitlab.com/elena.a.borisevich/elena.a.borisevich/-/issues)
+* [Postman collection](https://gitlab.com)
+* [SQL requests](https://gitlab.com)
 
-## Автоматизированное тестирование
+## Automation
 
 ![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-122529?style=for-the-badge&logo=visual-studio-code)
 ![Playwright](https://img.shields.io/badge/Playwright-122529?style=for-the-badge&logo=Playwright)
@@ -42,11 +42,11 @@
 ![Git](https://img.shields.io/badge/Git-122529?style=for-the-badge&logo=Git)
 ![GitLab](https://img.shields.io/badge/GitLab-122529?style=for-the-badge&logo=GitLab)
 
-### Примеры автотестов
+### Automation tests examples
 
 * [E2E](https://gitlab.com)
 * [API](https://gitlab.com)
 
-## Сертификаты
+## Certificates
 
-Школа Смартап - [Удостоверение о переквалификации](https://gitlab.com/assets/сертификат.png)
+Smartup School - [certificate](https://gitlab.com/assets/сертификат.png)
